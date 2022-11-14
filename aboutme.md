@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Felasa, or The Feminine Law Safety Awareness Initiative, founded in August 2022, is a forum to create awareness about women's safety laws in India. Our vision entails legally empowering women (both educated and illiterate) ignorant of their rights to access and demand justice.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- We are mainly dedicated to providing a platform to connect women with low access to financial resources to pro-bono lawyers and NGOs. 
+- Acknowledging the amount of resources required to build cases which limit the number of women that could be helped, we utilize technology to highlight victims of gender-based crimes. Our algorithm summarizes the information from disparate articles in the media to help lawyers build their cases.
+- Through blogs and outreach programs, we are also committed to sensitizing women and girls about their safety rights and laws established under the Constitution of India.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.

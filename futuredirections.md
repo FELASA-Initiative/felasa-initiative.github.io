@@ -1,16 +1,9 @@
 ---
 layout: page
 title: Future Directions
-subtitle: Why you'd want to go on a date with me
+subtitle: What we hope to achieve and where we see this organization in the future?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+We hope to utilise our skills in research and innovation for legal empowerment of marginalized and underrepresented communities. We aspire to extend our work, currently limited to a recommendation website to include algorithmic fairness and de-biasing.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Members of our organization are actively working on state-of-the-art technology such as AI, and want to expand horizons through methods to create digital awareness. We aim to use technology for legal aid, eradicating the exploitation at the underprivileged and rural sections of society.

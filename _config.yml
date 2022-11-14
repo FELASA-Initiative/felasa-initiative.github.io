@@ -21,6 +21,7 @@ author: Some Person
 
 navbar-links:
   About Us: "aboutme"
+  Our Story: "ourstory"
   Resources:
     - Future Directions: "futuredirections"
   Meet the Team: "meettheteam"
