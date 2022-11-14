@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About Us
 ---
 
 Felasa, or The Feminine Law Safety Awareness Initiative, founded in August 2022, is a forum to create awareness about women's safety laws in India. Our vision entails legally empowering women (both educated and illiterate) ignorant of their rights to access and demand justice.
