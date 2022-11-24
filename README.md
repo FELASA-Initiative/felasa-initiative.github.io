@@ -1,11 +1,18 @@
-[![](./images/Banner.png)](https://felasa-initiative.github.io/) 
+<img src="./images/Banner.png" width="100%">
+
+
+
+
 
 
 # Felasa Initiative
 
 
 ## About Us:
+<img src="./images/fel.gif" align="right" height=300/> 
 Felasa, or The Feminine Law Safety Awareness Initiative, founded in August 2022, is a forum to create awareness about women’s safety laws in India. Our vision entails legally empowering women (both educated and illiterate) ignorant of their rights to access and demand justice.
+
+
 
 * We are mainly dedicated to providing a platform to connect women with low access to financial resources to pro-bono lawyers and NGOs.
 * Acknowledging the amount of resources required to build cases which limit the number of women that could be helped, we utilize technology to highlight victims of gender-based crimes. Our algorithm summarizes the information from disparate articles in the media to help lawyers build their cases.
