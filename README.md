@@ -1,15 +1,10 @@
 <img src="./images/Banner.png" width="100%">
 
-
-
-
-
-
 # Felasa Initiative
 
 
 ## About Us:
-<img src="./images/fel.gif" align="right" height=300/> 
+<img src="./images/fel.gif" align="right" height=290/> 
 Felasa, or The Feminine Law Safety Awareness Initiative, founded in August 2022, is a forum to create awareness about women’s safety laws in India. Our vision entails legally empowering women (both educated and illiterate) ignorant of their rights to access and demand justice.
 
 
@@ -28,10 +23,10 @@ As a start to bring about change, more women and girls need to take the initiati
 
 ## The Founders:
 
-* Supriti Vijay 
+* [Supriti Vijay](https://supritivijay.github.io/)
 
-* Aman Priyanshu
+* [Aman Priyanshu](https://amanpriyanshu.github.io/)
 
-* Shreyans Mehta
+* [Shreyans Mehta](https://www.linkedin.com/in/shreyans-mehta-01/)
 
-* Mudit Sinha
+* [Mudit Sinha](https://www.linkedin.com/in/muditsinha01/)
