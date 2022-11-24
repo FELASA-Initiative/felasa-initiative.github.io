@@ -1,6 +1,7 @@
-[![](./images/Banner.png)](https://felasa-initiative.github.io/)
+[![](./images/Banner.png)](https://felasa-initiative.github.io/) 
 
-# Felasa Initiative <img src="./images/Felasa.png" align="left" height=350/>
+
+# Felasa Initiative
 
 
 ## About Us:
