@@ -19,8 +19,10 @@ title: Felasa-Initiative
 navbar-links:
   About Us: "aboutme"
   Our Story: "ourstory"
+  Blog: "blog"
   Resources:
     - Future Directions: "futuredirections"
+    - Details of Assistance: "detailsofassistance"
   Meet the Team: "meettheteam"
 
 ################
