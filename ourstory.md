@@ -2,6 +2,7 @@
 layout: page
 title: Our Story
 subtitle: Why the need to create women's safety law awareness?
+cover-img: /assets/img/legal_cover.jpeg
 ---
 
 Being conscious and up to date about your rights allows an individual to alter their life and fight against any injustice coming their way through judicial protection. Without proper awareness, the promulgation of laws established to protect women in society will not be effective and social evils will continue to derail the lives of countless women. 
