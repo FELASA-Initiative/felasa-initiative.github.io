@@ -9,6 +9,7 @@ layout: page
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
   {% for post in posts %}
+  {% if post.categories not contains 'blog1' %}
   <li class="post-preview">
     <article>
 
@@ -94,6 +95,7 @@ layout: page
 
     </article>
   </li>
+  {% endif %}
   {% endfor %}
 </ul>
 
