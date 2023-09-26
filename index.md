@@ -6,8 +6,8 @@ subtitle: Feminine Law Safety Awareness Initiative
 
 <style>
   .red-button {
-    background-color: red;
-    color: white;
+    background-color: '#FF9A98';
+    color: red;
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
@@ -21,6 +21,6 @@ To many, the idea of accessing legal aid after a crime seems like the regular co
 
 Aiming to bridge this gap between lawyers and victims, our initiative compiles a list of daily newspaper articles mentioning incidents and victims. Through our ML algorithm, we also consolidate unique information about identical cases from different newspapers and provide lawyers and activists assistance with as much information mentioned in media. You can access all such news pieces below.
 
-<button class="red-button">Disturbing content ahead. Please be cautious!</button>
 
-## <img src="/assets/img/news.png" height="50px"> News
+
+## <img src="/assets/img/news.png" height="50px"> News <button class="red-button">Disturbing content ahead. Please be cautious!</button>
