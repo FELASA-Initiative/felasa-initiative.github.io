@@ -6,7 +6,7 @@ subtitle: Feminine Law Safety Awareness Initiative
 
 <style>
   .red-button {
-    background-color: #FF9A98;
+    background-color: #EF9A9A;
     color: red;
     padding: 10px 20px;
     border: none;
@@ -23,4 +23,7 @@ Aiming to bridge this gap between lawyers and victims, our initiative compiles a
 
 
 
-## <img src="/assets/img/news.png" height="50px"> News <button class="red-button">Disturbing content ahead. Please be cautious!</button>
+## <img src="/assets/img/news.png" height="50px"> News <br>
+
+
+<button class="red-button">Disturbing content ahead. Please be cautious!</button>
