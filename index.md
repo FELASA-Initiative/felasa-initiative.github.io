@@ -6,7 +6,7 @@ subtitle: Feminine Law Safety Awareness Initiative
 
 <style>
   .red-button {
-    background-color: '#FF9A98';
+    background-color: #FF9A98;
     color: red;
     padding: 10px 20px;
     border: none;
