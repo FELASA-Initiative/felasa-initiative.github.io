@@ -2,6 +2,8 @@
 layout: home
 title: Felasa-Initiative
 subtitle: Feminine Law Safety Awareness Initiative
+description: Felasa Initiative - Bridging the Gap between Legal Aid and Victims of Gender-Based Crimes in India
+keywords: Felasa Initiative, Feminine Law Safety Awareness, Legal Aid, Gender-Based Crimes, India
 ---
 
 <style>
@@ -21,9 +23,7 @@ To many, the idea of accessing legal aid after a crime seems like the regular co
 
 Aiming to bridge this gap between lawyers and victims, our initiative compiles a list of daily newspaper articles mentioning incidents and victims. Through our ML algorithm, we also consolidate unique information about identical cases from different newspapers and provide lawyers and activists assistance with as much information mentioned in media. You can access all such news pieces below.
 
-
-
 ## <img src="/assets/img/news.png" height="50px"> News 
 
-
 <button class="red-button">Disturbing content ahead. </button>
+
