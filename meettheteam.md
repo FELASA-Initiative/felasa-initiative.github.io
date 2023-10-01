@@ -16,8 +16,3 @@ We are group of undergraduates weaving together equity and innovation. We hope t
 &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/muditsinha01/"><img alt="Mudit" src="/assets/img/team/MuditSinha.png" width="20%"></a>
 </p>
-
-- Supriti Vijay
-- Aman Priyanshu
-- Shreyans Mehta
-- Mudit Sinha
