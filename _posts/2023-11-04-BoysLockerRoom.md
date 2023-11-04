@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Locking Down Locker Room Culture - 5 Must-Have Rules for a Safer and Smarter Space
+title: Preventing Locker Room Culture - 10 Must-Have Rules for a Safer Space
 categories: blog1
 subtitle: By Ayushmita
 thumbnail-img: /assets/img/boyslocker.jpg
-tags: [online laws, safety, laws safeguarding women online]
-direct_url: 'https://felasa-initiative.github.io/2023-11-04-OnlineLaws/'
+tags: [cyberbullying laws, online privacy protection, boys locker room]
+direct_url: 'https://felasa-initiative.github.io/2023-11-04-BoysLockerRoom/'
 ---
 To prevent incidents like the "boys locker room" fiasco, we need legal measures that address cyberbullying, harassment, and the misuse of technology. 
 
