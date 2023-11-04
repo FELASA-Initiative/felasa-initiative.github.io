@@ -16,3 +16,8 @@ We are group of undergraduates weaving together equity and innovation. We hope t
 &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/muditsinha01/"><img alt="Mudit" src="/assets/img/team/MuditSinha.png" width="20%"></a>
 </p>
+
+## Writers and Volunteers
+
+1. Swetha Vemulapalli
+2. Ayushmita
