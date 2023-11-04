@@ -8,7 +8,7 @@ keywords: Felasa Initiative, Feminine Law Safety Awareness, Legal Aid, Gender-Ba
 
 <style>
   .red-button {
-    background-color: #E6A2B3;
+/*    background-color: #E6A2B3;*/
     color: red;
     padding: 10px 20px;
     border: none;
@@ -25,5 +25,5 @@ Aiming to bridge this gap between lawyers and victims, our initiative compiles a
 
 ## <img src="/assets/img/news.png" height="50px"> News 
 
-<button class="red-button">Disturbing content ahead. </button>
+<button class="red-button">Sensitive content ahead. </button>
 
