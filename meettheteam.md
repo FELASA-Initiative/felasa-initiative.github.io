@@ -23,7 +23,10 @@ We are group of undergraduates weaving together equity and innovation. We hope t
 
 ## Writers and Volunteers
 
-1. Swetha Vemulapalli
-2. Ayushmita
+<p align="center">
+  <a href="https://www.linkedin.com/in/swetha-vemulapalli-b8374524b/"><img alt="Swetha" src="/assets/img/team/Shwetha.png" width="20%"></a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/ayushmita-bhattacharya-51b76b254/"><img alt="Ayushmita" src="/assets/img/team/Ayushmita.png" width="20%"></a>
+</p>
 
 
