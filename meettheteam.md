@@ -5,19 +5,21 @@ title: Meet The Team
 
 We are group of undergraduates weaving together equity and innovation. We hope to leverage our technological skills for the betterment of society.
 
-## Founder:
+## Founder
 
 <p align="center">
   <a href="https://supritivijay.github.io/"><img alt="Supriti" src="/assets/img/team/SupritiVijay.png" width="20%"></a>
 </p>
+
+## Technical Team
+
+1. Aman Priyanshu 
+2. Shreyans Mehta 
+3. Mudit Sinha
 
 ## Writers and Volunteers
 
 1. Swetha Vemulapalli
 2. Ayushmita
 
-## Contributors:
 
-1. Aman Priyanshu 
-2. Shreyans Mehta 
-3. Mudit Sinha

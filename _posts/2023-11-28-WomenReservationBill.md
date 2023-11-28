@@ -11,11 +11,11 @@ India recently achieved a historic milestone with the passage of the Women's Res
 
 The Women's Reservation Bill, also known as the **Nari Shakti Vandan Adhiniyam**, is a landmark bill passed by both houses of parliament in India that reserves one-third of seats in the national and state parliaments for women. The bill aims to empower women and provide them with a platform to actively participate in policymaking and governance at both the state and national levels. It helps in fostering an environment for the participation of women from all backgrounds in public life, with profound, positive implications for society as a whole.
 
-## The Need for Such Laws for Women in India 
+### The Need for Such Laws for Women in India 
 
 The need for laws like the Women's Reservation Bill in India stems from the underrepresentation of women in the country's political landscape. Despite comprising over 48% of India's population, women have historically held only 15.1% representation in Parliament. This significant gender disparity underscores the necessity for legislative measures to ensure women's voices are heard, and their perspectives are represented in the decision-making processes that shape the nation's future.
 
-## Further Steps 
+### Further Steps 
 
 While the passage of the Women's Reservation Bill is a significant achievement, further steps can be taken to continue advancing gender equality in India. Some potential actions include: 
 
