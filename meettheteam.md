@@ -18,6 +18,6 @@ We are group of undergraduates weaving together equity and innovation. We hope t
 
 ## Contributors:
 
-1. [Aman Priyanshu](https://amanpriyanshu.github.io/)
-2. [Shreyans Mehta](https://www.linkedin.com/in/shreyans-mehta-01/)
-3. [Mudit Sinha](https://www.linkedin.com/in/muditsinha01/)
+1. Aman Priyanshu 
+2. Shreyans Mehta 
+3. Mudit Sinha
