@@ -13,9 +13,13 @@ We are group of undergraduates weaving together equity and innovation. We hope t
 
 ## Technical Team
 
-1. Aman Priyanshu 
-2. Shreyans Mehta 
-3. Mudit Sinha
+<p align="center">
+  <a href="https://amanpriyanshu.github.io/"><img alt="Aman" src="/assets/img/team/AmanPriyanshu.png" width="20%"></a>
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/shreyans-mehta-01/"><img alt="Shreyans" src="/assets/img/team/ShreyansMehta.png" width="20%"></a>
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/muditsinha01/"><img alt="Mudit" src="/assets/img/team/MuditSinha.png" width="20%"></a>
+</p>
 
 ## Writers and Volunteers
 
