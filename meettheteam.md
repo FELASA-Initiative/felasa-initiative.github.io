@@ -11,6 +11,14 @@ We are group of undergraduates weaving together equity and innovation. We hope t
   <a href="https://supritivijay.github.io/"><img alt="Supriti" src="/assets/img/team/SupritiVijay.png" width="20%"></a>
 </p>
 
+## Writers and Volunteers
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/swetha-vemulapalli-b8374524b/"><img alt="Swetha" src="/assets/img/team/Shwetha.png" width="20%"></a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/ayushmita-bhattacharya-51b76b254/"><img alt="Ayushmita" src="/assets/img/team/Ayushmita.png" width="20%"></a>
+</p>
+
 ## Technical Team
 
 <p align="center">
@@ -20,13 +28,4 @@ We are group of undergraduates weaving together equity and innovation. We hope t
 &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/muditsinha01/"><img alt="Mudit" src="/assets/img/team/MuditSinha.png" width="20%"></a>
 </p>
-
-## Writers and Volunteers
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/swetha-vemulapalli-b8374524b/"><img alt="Swetha" src="/assets/img/team/Shwetha.png" width="20%"></a>
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/ayushmita-bhattacharya-51b76b254/"><img alt="Ayushmita" src="/assets/img/team/Ayushmita.png" width="20%"></a>
-</p>
-
 
